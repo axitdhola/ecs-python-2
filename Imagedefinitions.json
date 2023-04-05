@@ -1,0 +1,6 @@
+[
+    {
+        "name": "python-container",
+        "imageUri": "803928384365.dkr.ecr.ap-northeast-1.amazonaws.com/python:latest"
+    }
+]
